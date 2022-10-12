@@ -1,4 +1,4 @@
-### Hi there 👋
+
 
 [![MasterHead](https://jayamwebsolutions.com/img/website.gif)](https://rishavchanda.io)
 <h1 align="center">Heyy There 👋, I'm Ashen Vidusha</h1>
