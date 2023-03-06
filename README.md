@@ -11,7 +11,7 @@
 
 <p align="left"> <a href="https://twitter.com/avicz_music" target="blank"><img src="https://img.shields.io/twitter/follow/avicz_music?logo=twitter&style=for-the-badge" alt="avicz_music" /></a> </p>
 
-- 🔭 I’m a Undergraduate Students
+- 🔭 I’m a Undergraduate 
 
 - 💬 Ask me about **HTML ,CSS , Java**
 
